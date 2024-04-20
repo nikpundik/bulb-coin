@@ -1,0 +1,15 @@
+.section {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.section h2 {
+  font-size: 22px;
+}
+
+.section p {
+  font-size: 14px;
+  color: #999;
+  margin-bottom: 36px;
+}
